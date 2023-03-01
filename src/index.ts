@@ -1,3 +1,2 @@
-import getFileType from './getFileType';
-export default getFileType;
-
+import getFileType from './getFileType'
+export default getFileType
